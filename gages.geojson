@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "gage": "NEW", "startDate": "1942-09-01 06:00", "endDate": "2022-06-16 23:55", "Latitude": 30.0424, "Longitude": -90.0282 }, "geometry": { "type": "Point", "coordinates": [ -90.0282, 30.0424 ] } },
+{ "type": "Feature", "properties": { "gage": "MSY", "startDate": "1945-10-01 06:00", "endDate": "2022-06-16 23:55", "Latitude": 29.9933, "Longitude": -90.2511 }, "geometry": { "type": "Point", "coordinates": [ -90.2511, 29.9933 ] } },
+{ "type": "Feature", "properties": { "gage": "NBG", "startDate": "1949-01-01 13:00", "endDate": "2022-06-16 23:55", "Latitude": 29.8253, "Longitude": -90.035 }, "geometry": { "type": "Point", "coordinates": [ -90.035, 29.8253 ] } },
+{ "type": "Feature", "properties": { "gage": "BXA", "startDate": "1998-09-01 05:53", "endDate": "2022-06-16 23:55", "Latitude": 30.8137, "Longitude": -89.865 }, "geometry": { "type": "Point", "coordinates": [ -89.865, 30.8137 ] } },
+{ "type": "Feature", "properties": { "gage": "ASD", "startDate": "1998-09-01 05:53", "endDate": "2022-06-16 23:55", "Latitude": 30.3433, "Longitude": -89.8222 }, "geometry": { "type": "Point", "coordinates": [ -89.8222, 30.3433 ] } },
+{ "type": "Feature", "properties": { "gage": "HDC", "startDate": "2002-01-01 06:06", "endDate": "2022-06-16 23:58", "Latitude": 30.52, "Longitude": -90.42 }, "geometry": { "type": "Point", "coordinates": [ -90.42, 30.52 ] } }
+]
+}
